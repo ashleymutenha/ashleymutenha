@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ashleymutenha
 - 👀 I’m interested in Web Development, Machine Learning and anything Python
-- 🌱 
 - 💞️ I’m looking to collaborate on Web Development, Software Development...
 - 📫 How to reach me  whatsapp :0782317266...
 
