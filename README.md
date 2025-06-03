@@ -12,3 +12,4 @@ My Skills includes
   -    **ETL (Extract Transform and Load)** -> write  python api scripts to fetch submitted commcare data and transform into  into excel  and json format.
   -    Write Python scripts to store the transformed data into SQL Server
   -    build dashboards (Power BI and web based (ReactJS) to show insights from the collected data to stakeholders)
+  -    Currently U=using this collected data to build a machine learning model to predict future Male Circumcision trends by location to aid in decision making 
