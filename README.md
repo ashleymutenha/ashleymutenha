@@ -8,7 +8,7 @@ My Skills includes
 - Mobile App Development (Flutter, React Native)
 - Web development(ReactJS)
 - ⚡ Fun fact: ... I am currently working for ZIM-TTECH as a Data Analyst for VMMC program and have developed a data flow pipeline which includes
-  -    build commcare forms for data collection at site level (hospitals and clinics were VMMC is conducted
+  -    build commcare forms for data collection at site level (hospitals and clinics where VMMC is conducted)
   -    **ETL (Extract Transform and Load)** -> write  python api scripts to fetch submitted commcare data and transform into  into excel  and json format.
   -    Write Python scripts to store the transformed data into SQL Server
   -    build dashboards (Power BI and web based (ReactJS) to show insights from the collected data to stakeholders)
