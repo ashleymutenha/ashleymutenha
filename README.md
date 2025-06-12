@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Ashley Mutenha
 
-I am a Software Engineer who have worked on projects that range from Mobile and Web Development , Data Engineering and Analysis 
+I am a Software Engineer from Zimbabwe who have worked on projects that range from Mobile and Web Development , Data Engineering and Analysis 
 
 My Skills includes
 -  Programming with Python
